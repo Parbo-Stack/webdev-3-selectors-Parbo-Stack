@@ -1,0 +1,32 @@
+body {
+    font-family: "Arial","Helvetica", sans-serif;
+    font-size: 1.2em;
+}
+
+.explain {
+    width: 60%;
+    text-align:justify;
+    font-size: 1em;
+}
+
+.leerdoel {
+    font-style: italic;
+}
+
+.MyButton {
+    width: 200px;
+    height: 80px;
+
+    /* deze combinatie centreert de tekst vertikaal en horizontaal */
+    line-height:80px;
+    text-align: center;
+
+    border: 1px solid black;
+
+}
+
+
+
+.hidden {
+    display: none;
+}

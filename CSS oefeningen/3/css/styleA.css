@@ -1,0 +1,34 @@
+/*
+Style de HTML elementen volgens de instructies
+
+Er mag niets in het HTML-bestand gewijzigd worden. Alle wijzigingen dienen in dit bestand gedaan te worden.
+
+*/
+
+/*
+ * Geef het body-element de achtergrondkleur: #bdc3c7
+ * Geef alle h1-elementen de tekstkleur #9b59b6
+ * Geef alle h2-elementen de tekstkleur: orange
+ * Geef alle <li> elementen de tekstkleur blauw. Zoek hier zelf een hexadecimale waarde voor de kleur blauw op.
+ * Geef alle p elementen de achtergroundkleur geel.
+ * Geef alle input-velden een border van drie pixels, die solid en rood van klaar is.
+ * Geef alles met de class 'hello' de achtergrondkleur wit
+ * Geef het element met id 'special' een blauwe omranding, die solide is en 2 pixels breed.
+ * Geef alle p-elementen die in een div-element staan een tekstgrootte van 25 pixels.
+ * Maak de achtergorndkleur van alle inputs met het type text grijs
+ * Geef de p-elementen die in de derde div staan een roze achtergrond.
+ * Geef het tweede p-element in het derde div-element een witte omranding van vijf pixels.
+ * Maak de tekstkleur van het em-element in het derde div-element wit en verander de tekstgrootte naar 20 pixels.
+ */
+
+/*
+    Extra oefeningen.
+    Hieronder staan opdrachten die wat extra speurwerk vergen.
+
+    * Geef alle checkboxes die geselecteerd (checked) zijn een margin van 50 pixels aan de linkerkant.
+    * Zorg ervoor dat alle tekst in de label elementen in hoofdletters zijn. (Je mag niets in het html bestand aanpassen)
+    * Maak de eerste letter van het element met id special 100 pixels en geef deze een groene kleur.
+    * Maak de tekstkleur van het h1-element blauw wanneer je er met de muis overeen gaat. (Mouse-over of hover)
+    * Geef alle a-elementen die bezocht (visited) zijn de grijze kleur.
+
+*/
